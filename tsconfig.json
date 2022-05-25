@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "es2022",
+    "lib": ["es2015", "DOM", "ES2015.Promise"],
+    "moduleResolution": "node",
+    "allowJs": true
+  },
+
+  "exclude": ["node_modules"]
+}
