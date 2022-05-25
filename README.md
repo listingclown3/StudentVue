@@ -32,6 +32,12 @@ Other things:
 Refer to EGGaming's TypeScript API to change the output of things, like the student information. At the time I am writing this I didn't even explore the entire thing which is probably a bad thing. Also, please like make this to the top of the StudentVue API page thing so people know this exists. The other projects are a little outdated but it might just be me and my horrendous knowledge of programming, or both.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Additional Information:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Join Discord for help and other things. I'll be making a Discord Bot that prints this information for "easier" access. It will display information via DM's for information privacy purposes. I might implement a "Remember Me" feature to allow access to your own StudentVue account via your Discord account. I plan to do this soon, so join the Discord server and maybe help out on development with the bot!
+
+Discord: https://discord.gg/p7rWprxeHt
+
 
 
 
